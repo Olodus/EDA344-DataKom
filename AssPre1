@@ -3,4 +3,4 @@
 3. IP = 128.16.204.34
 4. Se sparade skärmklipp
 5. ipconfig /displaydns shows you all cached instances. ipconfig /flushdns removes them. /registerdns for registering new ones.
-6. Se sparade skärmklipp
+6. Se sparade skärmklipp. Ingen av de två sista servrarna finns. 
