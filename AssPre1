@@ -1,6 +1,6 @@
 1. TCP, UDP, ARP
 2. ca 0.12 s
 3. IP = 128.16.204.34
-4. 
-5. 
-6.
+4. Se sparade skärmklipp
+5. ipconfig /displaydns shows you all cached instances. ipconfig /flushdns removes them. /registerdns for registering new ones.
+6. Se sparade skärmklipp
